@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "417378067971",
+    "firebase_url": "https://emitra50-ecd01.firebaseio.com",
+    "project_id": "emitra50-ecd01",
+    "storage_bucket": "emitra50-ecd01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417378067971:android:69edc4ee42c57271",
+        "android_client_info": {
+          "package_name": "com.creativeee.e_mitra50"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417378067971-mon77j7c6fq8pmtkaepejtqcgf29gqtt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creativeee.e_mitra50",
+            "certificate_hash": "e9bf8b5add2bbb29b15737fafd237add3f9336ad"
+          }
+        },
+        {
+          "client_id": "417378067971-6tef10mtepqge95cv77bin2mkui9lgg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDgDMC20NbzHZVpa7-vtBuCdcaR-XoPI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417378067971-6tef10mtepqge95cv77bin2mkui9lgg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
